@@ -1,3 +1,17 @@
-#seccion-contacto{min-height:600px;background-color:#1b2a4e;}
-footer{background-color:#1b2a4e;color:#fff;}
-footer a{color:#fff;}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+}
+#seccion-contacto{
+	min-height:600px;
+	background-color:#1b2a4e;
+}
+footer{
+	background-color:#1b2a4e;
+	color:#fff;
+}
+footer a{
+	color:#fff;
+}
