@@ -13,6 +13,17 @@ footer{
 	background-color:#1b2a4e;
 	color:#fff;
 }
-footer a{
+#iconos i{
 	color:#fff;
+	padding:0 8px;
+	font-size:26px;
+}
+@media (max-width:1200px){
+	
+}
+@media (max-width:768px){
+	
+}
+@media (max-width:576px){
+	
 }
