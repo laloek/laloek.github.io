@@ -9,6 +9,14 @@ body {
 	min-height:600px;
 	background-color:#1b2a4e;
 }
+#contenedor-formulario{
+	position:absolute;
+	top:30%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	background-color:#fbfafa;
+	border-radius:5px;
+}
 footer{
 	background-color:#1b2a4e;
 	color:#fff;
