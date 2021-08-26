@@ -31,9 +31,20 @@ body {
 	margin-top:150px;
 }
 
+#numeros-local{
+	margin:0 !important;
+	padding:0 !important;
+}
+#numeros-local div{
+	padding:0 20px 0 0;
+	text-align:left;
+	height:48px;
+}
+
 #seccion-contacto{
 	min-height:600px;
 	background-color:#1b2a4e;
+	position:relative;
 }
 #contenedor-formulario{
 	position:absolute;
