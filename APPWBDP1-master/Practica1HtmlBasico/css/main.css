@@ -45,7 +45,15 @@ body {
 }
 
 #numero-local div:not(:first-child){
-	border-left:2px solid #3f3f3f;
+	padding-left:20px;
+}
+#numeros-local p{
+	margin: 0;
+}
+
+#bg-contacto{
+	position: relative;
+	top:130px;
 }
 
 #seccion-contacto{
