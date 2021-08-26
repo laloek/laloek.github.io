@@ -40,6 +40,13 @@ body {
 	text-align:left;
 	height:48px;
 }
+#numero-local div:not(:last-child){
+	border-right:2px solid #3f3f3f;
+}
+
+#numero-local div:not(:first-child){
+	border-left:2px solid #3f3f3f;
+}
 
 #seccion-contacto{
 	min-height:600px;
