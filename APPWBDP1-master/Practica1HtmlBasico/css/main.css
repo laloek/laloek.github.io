@@ -25,6 +25,12 @@ body {
 	height:500px;
 }
 
+.wrapper-local{
+	width:50%;
+	margin-left:100px;
+	margin-top:150px;
+}
+
 #seccion-contacto{
 	min-height:600px;
 	background-color:#1b2a4e;
